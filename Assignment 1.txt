@@ -1,0 +1,74 @@
+Problem 1:
+Make the necessary changes in the given code to get the below output.
+
+________________________________________________________________________
+                           CART CUSTOM
+    Looking for Food Online, this is the place for you!!
+________________________________________________________________________
+	Raisin Toast						$2.50
+	French Toast						$2.80
+	Mushroom Toast						$3.00
+Pancake								$4.00
+Pancake with Ice-cream						$7.50
+Chef's speciality						$10.00
+________________________________________________________________________
+
+Code>>>
+#Copy from the next line.
+print("________________________________________________________________________")
+
+print("CART CUSTOM")
+
+print("Looking for Food Online, this is the place for you!!")
+
+print("________________________________________________________________________")
+
+	print("Raisin Taost						$2.50")
+
+	print("French Toast						$2.80")
+
+	print("Mushroom Toast						$3.00")
+
+print("Pancake								$4.00")
+
+print("Pancake with Ice-cream						$7.50")
+
+print("Chef's speciality						$10.00")
+
+print("_________________________________________________________________________")
+
+
+
+Problem 2:
+Write a program to find the area of a circle, where user is able to provide input.
+[Hint: Take pi=3.14 and radius=int(input())]
+
+Problem 3:
+*****Code below*****
+number1 = 10
+number2 = 5
+number2 *= number1
+print(number2)
+_____________________
+What is the output of above code?
+
+Problem 4:
+*****Code below*****
+number1 = 50
+number2 = 2
+number3 = 3
+number4 = 8
+out_ = number1/number4-number3*number2+number4
+print(out_)
+_____________________
+What is the output of above code?
+[Hint: Use BODMAS]
+
+Problem 5:
+*****Code below*****
+number1 = 1
+number2 = 2
+number3 = 3
+print(number4)
+_____________________
+What is the output of above code?
