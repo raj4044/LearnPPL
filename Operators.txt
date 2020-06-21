@@ -1,0 +1,59 @@
+OPERATORS
+-------------------------------------------------------
+
+Arithmetic
+
+Operators	Description
+---------------------------
++		Addition
+-		Subtraction
+*		Multiplication
+/		Division
+%		Modulus
+
+Relational
+
+Operators	Description
+----------------------------
+==		Equal to
+<		Less than
+>		Greater than
+<=		Less than or equal to
+>=		Greater than or equal to
+!=		Not equal to
+
+Logical
+
+
+Operators	Description
+----------------------------------------------
+AND		Result will be true, if both
+		the expressions are true. If
+		any one or both the expressions
+		are false, the result will be
+		false.
+OR		Result will be true, even if
+		one of the expression is true.
+		If both the expressions are false,
+		the result will be false
+NOT		If the expression is true,
+		result will be false and vice
+		versa.
+
+Assignment
+
+Operators	Description
+----------------------------
+=		Assign a value
++=		Add some value to the variable
+		and assign it back to the variable
+		on left side.
+-=		subtact value from the variable
+		and assign it back to the variable
+		on left side.
+*=		multiply the value to the variable
+		and assign it back to the variable
+		on left side.
+/=		Divide the variable by the value 
+		on right side and assign it back
+		to the variable	on left side
